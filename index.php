@@ -77,7 +77,7 @@
 	<meta name="twitter:card" value="summary"> 
 	<meta property="og:description" content="Go to mygothouse.tk/YourName to know your GOT House. Click here for more Information."/>
 	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<link rel="stylesheet" href="./helper/w3.css">
+	<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
 	
 	<meta property="og:title" content=" <?php if(isset($_GET['page'])) echo $_GET['page'].' belongs to '.$housename; else echo 'Know your GOT House'; ?>"/>
     <meta property="og:type" content="article" />
@@ -91,7 +91,7 @@
 	
 	
 	
-	<script src="./helper/jquery.min.js"></script> 
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script> 
 	<title>My GOT House</title> 
 
 
